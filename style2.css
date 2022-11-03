@@ -1,0 +1,30 @@
+/* * {
+  padding: o;
+  margin: 0;
+}
+.main {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(201, 32, 32);
+  position: relative;
+}
+.one {
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+  position: absolute;
+  border-radius: 200px;
+  display: flex;
+  right: 200px;
+  
+  bottom: 100px;
+}
+.two {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(47, 0, 255);
+  position: absolute;
+  border-radius: 200px;
+  bottom: 100px;
+  right: 50px;
+} */
